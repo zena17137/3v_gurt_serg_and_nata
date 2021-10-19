@@ -1,0 +1,114 @@
+p {
+	font-size: 70px;
+	margin-left:380px
+}
+
+.messege {
+	color:#010101;
+	background-color:#FF0000;
+	border: 20px solid #323232;
+	font-size: 29px;
+	margin-left:2px
+	margin-right:520px;
+	margin-bottom:30px;
+	padding: 25px;
+}
+
+
+.warning {
+	background-color:#FF7802;
+	color:#010101;
+		padding: 35px;
+}
+
+.fail {
+	background-color:#FFFF02;
+	color:#010101;
+	padding: 35px;
+}
+
+.success {
+	background-color: #00FF00;
+	color: #010101;
+	padding: 35px;
+}
+
+.info {
+	background-color:#00FBFF;
+	color: #010101;
+	padding: 35px;
+}
+
+.in {
+	background-color:#0015FF;
+	color: #010101;
+	padding: 35px;
+}
+
+.nfo {
+	background-color:#FF00FF;
+	color: #010101;
+	padding: 35px;
+}
+
+.messege:hover{
+	border: 38px solid #000000;
+}
+
+div:hover {
+	border: 35px solid #FF00FF;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
